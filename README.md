@@ -1,0 +1,1 @@
+# Python-Pyqt5-QtPlatformPlugin-Error-Solved
